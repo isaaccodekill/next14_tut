@@ -1,4 +1,4 @@
-export default function (){
+export default function Invoices (){
     return (
         <div>
             <h1>Invoices page</h1>
